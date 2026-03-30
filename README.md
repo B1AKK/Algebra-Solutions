@@ -1,0 +1,1 @@
+These are my solutions to "Algebra: Chapter 0" by Paolo Aluffi. I use Google Gemini to check my solutions for mistakes and to convert my handwritings to LaTeX. The content will be extended in the future.
